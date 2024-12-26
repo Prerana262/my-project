@@ -1,6 +1,9 @@
 Hi,
 i am an experimental feature.
 '''
-    Shopping Card
-    some code goes here
+    class ShoppingCart{
+        list<Items> l;
+        User uid;
+        ...
+    }
 '''    
