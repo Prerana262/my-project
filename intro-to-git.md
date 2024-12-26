@@ -1,3 +1,5 @@
 ### Git Intro
 we are learning about 'git-init'.
-i am going to add some text and add a new file.
+we are learning about 'commit'.
+we are learning about 'branching'.
+we are learning about 'merging'.
